@@ -1,5 +1,5 @@
 # Hello 
-## My nane is @BucherRoland
+## My name is @BucherRoland
 I am interested in **all kinds of programming languages**
 - 💞️ I am looking for cooperation with other vocational schools
 - 📫 our students can reach me via roland.bucher@sluz.ch
